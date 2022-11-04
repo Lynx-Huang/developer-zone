@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkocto_develop_zone=self.webpackChunkocto_develop_zone||[]).push([[5903],{2392:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/allxonTest/blog/tags/docusaurus","allTagsPath":"/allxonTest/blog/tags","count":4}')}}]);
